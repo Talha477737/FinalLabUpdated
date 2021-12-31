@@ -1,0 +1,22 @@
+{
+  "name": "finallabupdated-main",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "heroku-postbuild": "cd client && npm install && npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Talha477737/FinalLabUpdated.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Talha477737/FinalLabUpdated/issues"
+  },
+  "homepage": "https://github.com/Talha477737/FinalLabUpdated#readme"
+}
